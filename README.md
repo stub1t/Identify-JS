@@ -11,3 +11,4 @@
 | core-js       | `core.version`                                                                              |                                                                                      |
 | Dropzone      | `Dropzone.version`                                                                          |                                                                                      |
 | Angular       | `console.log(document.querySelector('[ng-version]').getAttribute('ng-version'));`           |                                                                                      |
+| Swagger UI    | `JSON.stringify(versions)`                                                                  | https://swagger.io/docs/open-source-tools/swagger-ui/usage/version-detection/        |
