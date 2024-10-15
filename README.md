@@ -8,7 +8,7 @@
 | Lodash        | `_.VERSION`                                                                                 | https://lodash.com/docs/4.17.15#VERSION                                              |
 | Underscore.js | `_.VERSION`                                                                                 | https://underscorejs.org/docs/modules/underscore.html                                |
 | Moment.js     | `moment.version`                                                                            | https://github.com/moment/moment/blob/develop/CHANGELOG.md#101                       |
-| core-js       | `core.version`                                                                              |                                                                                      |
+| core-js       | `core.version` <br> `window['__core-js_shared__'].versions`                                 | https://github.com/zloirock/core-js/issues/616#issuecomment-520765743                |
 | Dropzone      | `Dropzone.version`                                                                          |                                                                                      |
 | Angular       | `console.log(document.querySelector('[ng-version]').getAttribute('ng-version'));`           |                                                                                      |
 | Swagger UI    | `JSON.stringify(versions)`                                                                  | https://swagger.io/docs/open-source-tools/swagger-ui/usage/version-detection/        |
