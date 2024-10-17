@@ -11,4 +11,4 @@
 | core-js       | `core.version` <br> `window['__core-js_shared__'].versions`                                 | https://github.com/zloirock/core-js/issues/616#issuecomment-520765743                |
 | Dropzone      | `Dropzone.version`                                                                          |                                                                                      |
 | Angular       | `console.log(document.querySelector('[ng-version]').getAttribute('ng-version'));`           |                                                                                      |
-| Swagger UI    | `JSON.stringify(versions)`                                                                  | https://swagger.io/docs/open-source-tools/swagger-ui/usage/version-detection/        |
+| Swagger UI    | `JSON.stringify(versions)` <br> `JSON.stringify(versions.swaggerUi.version)`                | https://swagger.io/docs/open-source-tools/swagger-ui/usage/version-detection/        |
