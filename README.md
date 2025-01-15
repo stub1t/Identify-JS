@@ -3,6 +3,7 @@
 | Framework     | Query                                                                                       | References                                                                              |
 | ------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Angular       | `console.log(document.querySelector('[ng-version]').getAttribute('ng-version'));`           |                                                                                         |
+| AngularJS     | `angular.version`                                                                           | https://stackoverflow.com/questions/16017699/how-can-i-check-which-version-of-angular-im-using |
 | core-js       | `core.version` <br> `window['__core-js_shared__'].versions`                                 | https://github.com/zloirock/core-js/issues/616#issuecomment-520765743                   |
 | DevExpress    | `DevExpress.VERSION`                                                                        | https://supportcenter.devexpress.com/ticket/details/t802668/how-to-know-what-devextreme-devexpress-version-is-in-my-solution |
 | Dropzone      | `Dropzone.version`                                                                          |                                                                                         |
