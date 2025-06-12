@@ -15,5 +15,5 @@
 | Lodash        | `_.VERSION`                                                                                 | https://lodash.com/docs/4.17.15#VERSION                                                 |
 | Moment.js     | `moment.version`                                                                            | https://github.com/moment/moment/blob/develop/CHANGELOG.md#101                          |
 | React Router  | `__reactRouterVersion`                                                                      |                                                                                         |
-| Swagger UI    | `JSON.stringify(versions)` <br> `JSON.stringify(versions.swaggerUi.version)`                | https://swagger.io/docs/open-source-tools/swagger-ui/usage/version-detection/           |
+| Swagger UI    | `versions.swaggerUi.version` <br> `JSON.stringify(versions)`                                | https://swagger.io/docs/open-source-tools/swagger-ui/usage/version-detection/           |
 | Underscore.js | `_.VERSION`                                                                                 | https://underscorejs.org/docs/modules/underscore.html                                   |
