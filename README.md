@@ -14,6 +14,7 @@
 | jQuery Mobile | `$.mobile.version` <br> `jQuery.mobile.version`                                             | https://stackoverflow.com/questions/26037878/get-jquery-mobile-version-programmatically |
 | Lodash        | `_.VERSION`                                                                                 | https://lodash.com/docs/4.17.15#VERSION                                                 |
 | Moment.js     | `moment.version`                                                                            | https://github.com/moment/moment/blob/develop/CHANGELOG.md#101                          |
+| Prototypejs   | `Prototype.Version`                                                                         | http://api.prototypejs.org/Prototype/Version/index.html                                 |
 | React Router  | `__reactRouterVersion`                                                                      |                                                                                         |
 | Swagger UI    | `versions.swaggerUi.version` <br> `JSON.stringify(versions)`                                | https://swagger.io/docs/open-source-tools/swagger-ui/usage/version-detection/           |
 | Underscore.js | `_.VERSION`                                                                                 | https://underscorejs.org/docs/modules/underscore.html                                   |
